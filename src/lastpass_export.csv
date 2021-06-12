@@ -1,0 +1,2 @@
+url,username,password,totp,extra,name,grouping,fav
+http://test.ru/,My_Login,passw,,,test.ru,,0
